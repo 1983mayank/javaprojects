@@ -44,14 +44,12 @@ public class Assignment2_4feb {
 	{
 		Assignment2_4feb ob=new Assignment2_4feb();
 		ob.m4(1, 2, 3, 4);
-		
+		//test
 	}
 	
 }
 	
 	
-	
-//https://github.com/1983mayank/jan2024Batch.git
-	
-//
-//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
+// centralized repository : https://github.com/1983mayank/javaprojects.git
+//user name : 1983mayank
+//password token : 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
