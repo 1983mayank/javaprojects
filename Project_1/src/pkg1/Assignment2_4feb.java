@@ -44,8 +44,11 @@ public class Assignment2_4feb {
 	{
 		Assignment2_4feb ob=new Assignment2_4feb();
 		ob.m4(1, 2, 3, 4);
-		//testing
+		//for testing purspose
+
 	}
+	
+	
 	
 }
 	
